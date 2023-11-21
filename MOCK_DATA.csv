@@ -1,0 +1,301 @@
+Nombre,Apellido,Género,Edad,País,Enfermedad,Antecedente,Tratamiento,Recuperado
+Jerrine,Borres,Female,34,United States,Polio,Hemofilia,Ibuprofeno,SÍ
+Clemens,Swetenham,Male,75,Indonesia,Polio,Respiratorio,Ventolin,NO
+Lory,Durban,Female,42,Russia,Cólera,Respiratorio,Nolotil,SÍ
+Shayne,Bowcock,Female,64,China,Hepatitis,Respiratorio,Eutirox,SÍ
+Forester,Cancellor,Male,25,Australia,Hipertensión,Cardiovascular,Nolotil,SÍ
+Kean,Wyer,Male,27,China,Lupus,Cardiovascular,N/A,SÍ
+Murdoch,Frill,Male,27,Belarus,Lupus,Respiratorio,Sintrom,SÍ
+Leroy,Gegay,Male,87,Philippines,Ébola,Hemofilia,Sintrom,NO
+Meaghan,Pavlasek,Female,35,Brazil,Lupus,Respiratorio,Nolotil,NO
+Orion,Odcroft,Male,4,Nigeria,Hepatitis,Hemofilia,Ibuprofeno,NO
+Herc,Dow,Male,16,Yemen,Hepatitis,Cardiovascular,Sintrom,NO
+Winslow,Astley,Agender,48,China,Ébola,Respiratorio,Eutirox,NO
+Cirilo,Brussell,Male,70,Portugal,Malaria,N/A,Orfidal,SÍ
+Dix,McClaren,Female,62,Thailand,Hipertensión,Cardiovascular,Orfidal,SÍ
+Gertruda,O'Collopy,Female,83,France,Hepatitis,N/A,Sintrom,NO
+Susanna,Merdew,Female,52,Czech Republic,Malaria,N/A,Nolotil,NO
+Robyn,Barrows,Female,15,Russia,Cólera,Cardiovascular,Nolotil,NO
+Cristie,Thorne,Agender,10,Russia,Diabetes,Cardiovascular,Ibuprofeno,SÍ
+Ashli,Lowne,Agender,20,China,Hepatitis,N/A,Ibuprofeno,SÍ
+Sharline,Adrienne,Female,75,Finland,Cólera,Hemofilia,Paracetamol,NO
+Julianna,Cahalin,Female,49,Ukraine,Hepatitis,N/A,Ventolin,NO
+Sharia,Wilshere,Female,50,Sweden,Malaria,Respiratorio,Orfidal,NO
+Marje,Grannell,Female,25,Cambodia,Diabetes,Hemofilia,Ibuprofeno,NO
+Elsinore,Seemmonds,Female,6,Indonesia,Diabetes,N/A,N/A,NO
+Mead,Lindhe,Male,13,Indonesia,Malaria,Hemofilia,Ventolin,SÍ
+Lyndsay,Durie,Female,80,Japan,Polio,N/A,Ibuprofeno,SÍ
+Adan,Burghill,Female,74,France,VIH,Hemofilia,Nolotil,NO
+Rosene,Tomasini,Female,55,Indonesia,Polio,Hemofilia,Ventolin,NO
+Tilda,Ledward,Non-binary,39,Indonesia,Ébola,Hemofilia,Paracetamol,NO
+Ulric,Concannon,Male,49,Sweden,Diabetes,Cardiovascular,N/A,NO
+Purcell,Jerrolt,Male,75,China,Sífilis,N/A,Ventolin,SÍ
+Charis,Drennan,Female,70,Vietnam,Lupus,Hemofilia,Eutirox,NO
+Margy,Monday,Female,79,El Salvador,Polio,Cardiovascular,Paracetamol,NO
+Grete,Sanja,Female,63,United Kingdom,VIH,Cardiovascular,Nolotil,SÍ
+Phyllis,Bridden,Female,25,South Africa,Polio,Hemofilia,Eutirox,SÍ
+Tomasine,Ashurst,Female,6,China,Sífilis,Hemofilia,Nolotil,NO
+Lulita,Abramowsky,Female,4,Russia,Ébola,Respiratorio,Sintrom,SÍ
+Westley,Pentony,Male,39,China,Hipertensión,Hemofilia,Orfidal,SÍ
+Ange,Parham,Male,8,China,VIH,Respiratorio,Eutirox,SÍ
+Hamlin,Taggert,Male,84,Argentina,VIH,Cardiovascular,N/A,SÍ
+Merwyn,Gorcke,Male,73,Brazil,VIH,Cardiovascular,N/A,NO
+Theresa,Nanson,Female,19,Azerbaijan,VIH,Respiratorio,N/A,NO
+Monica,Ivanyushin,Female,50,Brazil,Lupus,Hemofilia,Paracetamol,NO
+Lucio,Southeran,Male,78,Philippines,Hipertensión,N/A,Eutirox,NO
+Muffin,Weetch,Female,86,Greece,Polio,Respiratorio,Ventolin,SÍ
+Nike,Fawks,Female,42,Indonesia,VIH,N/A,Ventolin,SÍ
+Andriette,Bullus,Female,9,China,Hipertensión,Hemofilia,Orfidal,SÍ
+Gaynor,Tabard,Female,52,China,Polio,Cardiovascular,Sintrom,SÍ
+Didi,Terbeek,Female,12,Russia,Ébola,Respiratorio,Sintrom,SÍ
+Brinn,Collishaw,Female,18,Mexico,Polio,Hemofilia,Paracetamol,NO
+Eberhard,Hosby,Male,49,Mexico,Cólera,Hemofilia,Ibuprofeno,NO
+Danna,Gorghetto,Female,68,Ecuador,Malaria,Cardiovascular,N/A,NO
+Pepito,Shimwall,Male,18,Indonesia,Ébola,Cardiovascular,Paracetamol,NO
+Putnem,Gammet,Male,31,Mongolia,VIH,Respiratorio,Ventolin,NO
+Hillier,Yukhnev,Male,39,Indonesia,Polio,Hemofilia,Orfidal,SÍ
+Stanfield,Vakhlov,Male,19,Greece,Malaria,Cardiovascular,Nolotil,NO
+Reinhold,Kift,Genderqueer,8,Ukraine,Polio,Hemofilia,Eutirox,SÍ
+Eudora,Cafferky,Female,30,Colombia,Ébola,N/A,Sintrom,NO
+Matthieu,Hayen,Male,24,North Korea,VIH,Hemofilia,Ventolin,NO
+Nikolaos,Burberow,Male,33,Brazil,Ébola,Hemofilia,Eutirox,SÍ
+Dev,Carty,Male,90,Canada,VIH,Hemofilia,Ventolin,SÍ
+Donnie,Merriday,Male,65,Brazil,VIH,Hemofilia,Eutirox,NO
+Eugen,Johl,Male,7,United Kingdom,Polio,Hemofilia,Ventolin,NO
+Nonie,Burkman,Female,58,Peru,Diabetes,Cardiovascular,Sintrom,NO
+Ferne,Chesser,Female,82,Zimbabwe,Diabetes,Respiratorio,Paracetamol,NO
+Rudyard,Mawson,Male,41,China,Diabetes,Cardiovascular,Ibuprofeno,SÍ
+Inger,Gelly,Male,83,France,Sífilis,Hemofilia,N/A,NO
+Britt,Flockhart,Male,14,Pakistan,Hipertensión,N/A,Ventolin,SÍ
+Deeann,Pierpoint,Female,86,China,Diabetes,N/A,Orfidal,SÍ
+Tom,Heimes,Male,64,Russia,Polio,Hemofilia,Sintrom,NO
+Bernardina,Meneely,Female,61,Honduras,Cólera,Respiratorio,Eutirox,NO
+Devland,Milbourn,Male,79,Pakistan,Hepatitis,Respiratorio,Ibuprofeno,SÍ
+Olive,Basill,Female,14,Kazakhstan,Hepatitis,Cardiovascular,N/A,NO
+Mahmud,Delnevo,Male,58,Greece,Diabetes,Respiratorio,Eutirox,SÍ
+Joyann,O'Crevan,Female,71,Sweden,Sífilis,N/A,Eutirox,SÍ
+Gearalt,Ackland,Male,10,Philippines,Lupus,Respiratorio,Ventolin,SÍ
+Betteanne,Chilles,Female,30,Bulgaria,Lupus,Hemofilia,Ventolin,NO
+Greta,Tendahl,Female,21,Nigeria,Ébola,N/A,Nolotil,SÍ
+Cathrine,Mawdsley,Female,35,Malaysia,Ébola,Respiratorio,Orfidal,SÍ
+Grove,Kohrsen,Male,11,Saint Kitts and Nevis,Hipertensión,Cardiovascular,N/A,NO
+Barde,Deniskevich,Male,80,Indonesia,Lupus,Cardiovascular,Nolotil,SÍ
+Binky,McGhie,Male,3,China,VIH,Hemofilia,Nolotil,SÍ
+Ilyssa,State,Genderqueer,90,Philippines,Diabetes,Hemofilia,Eutirox,SÍ
+Lazar,Garstan,Male,60,Brazil,Cólera,Cardiovascular,N/A,SÍ
+Lorens,Vesco,Male,43,China,Diabetes,Respiratorio,Nolotil,NO
+Cherrita,Gors,Female,32,Brazil,Sífilis,Respiratorio,Sintrom,NO
+Aurea,Ruusa,Female,18,Sweden,Hepatitis,Cardiovascular,Sintrom,SÍ
+Bernie,Nowill,Male,81,Brazil,Malaria,Hemofilia,Nolotil,SÍ
+Jabez,Wyon,Male,39,Lebanon,Lupus,Hemofilia,Eutirox,SÍ
+Bernadette,Michieli,Female,25,Iran,Malaria,Cardiovascular,Ibuprofeno,SÍ
+Romy,Broad,Female,43,Indonesia,Cólera,Respiratorio,Eutirox,NO
+Pepillo,Howat,Male,33,Poland,Ébola,Hemofilia,Nolotil,SÍ
+Nert,Greening,Female,63,Indonesia,Lupus,Respiratorio,Eutirox,SÍ
+Darline,Regelous,Female,55,Colombia,Diabetes,Hemofilia,Nolotil,SÍ
+Linnie,Fries,Female,62,China,Hipertensión,N/A,N/A,SÍ
+Upton,Gentile,Male,19,Brazil,Lupus,N/A,Eutirox,NO
+Denis,Kobieriecki,Male,16,Poland,VIH,N/A,Paracetamol,NO
+Viviene,Hamby,Female,58,Poland,Diabetes,Respiratorio,Ventolin,NO
+Rozella,MacAless,Female,54,Benin,Hepatitis,Respiratorio,Paracetamol,SÍ
+Aylmer,Bairnsfather,Male,71,Ukraine,Hipertensión,Cardiovascular,Eutirox,SÍ
+Fawne,Spellacey,Female,54,Philippines,Lupus,Hemofilia,Nolotil,NO
+Massimo,Vakhlov,Male,52,Greece,Ébola,Respiratorio,N/A,NO
+Allistir,Alyukin,Male,80,Russia,Ébola,Cardiovascular,Eutirox,NO
+Woodman,Bernuzzi,Male,24,Syria,Ébola,N/A,Eutirox,SÍ
+Aimee,Swetland,Female,56,China,Malaria,Respiratorio,Eutirox,SÍ
+Dacia,Rotherham,Female,54,Sierra Leone,Polio,Respiratorio,Eutirox,NO
+Deva,Aldwinckle,Female,54,Indonesia,Sífilis,Respiratorio,Orfidal,SÍ
+Donall,Fechnie,Male,28,China,Ébola,Respiratorio,Orfidal,NO
+Micah,Mullally,Male,89,Philippines,Malaria,Hemofilia,Ibuprofeno,NO
+Katusha,Gaitskell,Female,90,China,Polio,N/A,N/A,NO
+Eberhard,Spaughton,Male,66,Argentina,VIH,Hemofilia,Orfidal,NO
+Nicolai,Jandourek,Male,28,Slovenia,Ébola,Respiratorio,Sintrom,NO
+Milli,Paskins,Female,34,United States,Lupus,Respiratorio,Ventolin,NO
+Marney,Robey,Female,84,China,Sífilis,Cardiovascular,Nolotil,SÍ
+Barnie,Hambidge,Male,87,Sweden,Hipertensión,Cardiovascular,Sintrom,NO
+Niki,O'Hollegan,Female,78,China,Ébola,Cardiovascular,Paracetamol,SÍ
+Cody,Leishman,Female,16,China,Lupus,N/A,Sintrom,SÍ
+Jack,Brash,Male,25,Indonesia,Malaria,Respiratorio,Sintrom,NO
+Rodolph,Adamkiewicz,Male,88,United States,Sífilis,Cardiovascular,N/A,NO
+Rudolph,Heardman,Male,33,Vietnam,Sífilis,Respiratorio,Ibuprofeno,SÍ
+Jeralee,Terbrugge,Female,42,Philippines,Diabetes,Cardiovascular,N/A,NO
+Hilarius,Waghorn,Male,81,Brazil,VIH,Hemofilia,Paracetamol,NO
+Andie,Sandham,Male,16,Mali,Hepatitis,Respiratorio,Ventolin,SÍ
+Aeriell,Drakes,Female,31,Ecuador,Polio,Respiratorio,Nolotil,SÍ
+Violante,Arpur,Female,26,China,Hipertensión,Hemofilia,Paracetamol,NO
+Florinda,Edgcombe,Female,43,Argentina,Hipertensión,Hemofilia,Nolotil,NO
+Hi,Astill,Male,76,Philippines,VIH,N/A,Nolotil,NO
+Roch,Sant,Female,74,China,Malaria,Cardiovascular,Eutirox,NO
+Erika,Ipsgrave,Female,50,Sweden,Sífilis,Cardiovascular,Nolotil,SÍ
+Karlotte,Ianniello,Female,89,Peru,Hepatitis,Cardiovascular,Eutirox,NO
+Bobina,Christie,Female,62,Portugal,Malaria,Cardiovascular,Paracetamol,NO
+Eileen,Karle,Female,69,Egypt,Lupus,Hemofilia,Sintrom,SÍ
+Bibby,Roggero,Female,61,Indonesia,Polio,Hemofilia,N/A,SÍ
+Sianna,Garth,Genderfluid,83,South Africa,VIH,N/A,Sintrom,NO
+Anastasia,Brenston,Female,11,Nicaragua,Diabetes,N/A,Nolotil,NO
+Ida,Abade,Non-binary,20,Indonesia,Lupus,Cardiovascular,Eutirox,SÍ
+Forster,Farrer,Male,28,Afghanistan,Lupus,Cardiovascular,Nolotil,NO
+Maynard,But,Male,50,Bosnia and Herzegovina,Sífilis,Cardiovascular,Sintrom,SÍ
+Amerigo,Bangs,Male,11,Russia,Ébola,Hemofilia,Nolotil,SÍ
+Neil,Bollam,Male,74,China,Diabetes,Respiratorio,Eutirox,NO
+Marlena,Gong,Female,82,Sweden,Lupus,Respiratorio,Orfidal,SÍ
+Clim,Highton,Male,55,Tanzania,Hepatitis,Cardiovascular,Eutirox,NO
+Caye,Klimsch,Female,78,Zimbabwe,VIH,Cardiovascular,N/A,SÍ
+Vallie,Milne,Female,13,Indonesia,Diabetes,Cardiovascular,Ventolin,SÍ
+Arlinda,Woodburn,Female,46,Japan,Ébola,Respiratorio,Paracetamol,NO
+Thorny,Giovannardi,Male,71,Indonesia,Cólera,N/A,Sintrom,SÍ
+Nicolas,Fabri,Bigender,90,Colombia,Diabetes,N/A,Orfidal,NO
+Elfrieda,Sutherns,Female,48,Russia,Diabetes,Respiratorio,Ibuprofeno,NO
+Eolanda,Wauchope,Female,67,Ukraine,Polio,Hemofilia,Nolotil,NO
+Ronald,Ivimy,Male,19,Poland,Hipertensión,Hemofilia,Eutirox,SÍ
+Haley,Bernhardi,Female,66,Canada,Malaria,Cardiovascular,Ventolin,NO
+Archibold,Merrall,Male,17,Portugal,Polio,Respiratorio,N/A,SÍ
+Neall,Veldens,Male,49,Russia,VIH,Respiratorio,Orfidal,NO
+Rorie,Windham,Female,44,Yemen,Hepatitis,Respiratorio,Eutirox,NO
+Beckie,Krysztowczyk,Female,65,Indonesia,Lupus,N/A,Sintrom,NO
+Lu,Coyett,Female,14,Afghanistan,Diabetes,Hemofilia,Eutirox,NO
+Wilbur,Marikhin,Male,13,Yemen,Lupus,Hemofilia,Sintrom,NO
+Hewie,Monard,Male,19,Poland,Hepatitis,N/A,Sintrom,SÍ
+Freddy,Fittall,Male,67,China,Lupus,Respiratorio,Nolotil,SÍ
+Dewitt,Beviss,Male,29,Indonesia,Malaria,N/A,Paracetamol,NO
+Galven,Berrington,Male,22,Poland,Polio,N/A,Ibuprofeno,NO
+Dick,Rist,Male,74,France,Ébola,Hemofilia,Eutirox,SÍ
+Robina,Kane,Female,69,Philippines,Sífilis,Hemofilia,N/A,NO
+Reed,Burgin,Male,9,Indonesia,Diabetes,N/A,Sintrom,NO
+Sherwood,Maeer,Male,74,Indonesia,Diabetes,N/A,Ibuprofeno,NO
+Millisent,Lanaway,Female,90,Brazil,Lupus,Hemofilia,Nolotil,SÍ
+Gualterio,Dunstan,Male,68,United States,Hepatitis,Respiratorio,Sintrom,NO
+Lefty,Meriott,Male,50,Canada,Diabetes,N/A,Paracetamol,NO
+Pascale,Puttan,Male,38,United States,Hipertensión,Respiratorio,Paracetamol,SÍ
+Stephie,Bernardi,Genderfluid,68,Morocco,Cólera,Hemofilia,Sintrom,NO
+Ker,Rounsivall,Male,84,Czech Republic,Lupus,N/A,Sintrom,NO
+Elfie,Winfrey,Female,32,Greece,Hepatitis,Hemofilia,Eutirox,NO
+Elladine,Tiron,Female,57,China,Hepatitis,Respiratorio,Sintrom,SÍ
+Merrile,Ondrak,Female,80,China,Sífilis,Hemofilia,Paracetamol,NO
+Matthaeus,Desantis,Male,13,Guatemala,Hipertensión,Hemofilia,Ibuprofeno,NO
+Griff,Bauduccio,Male,76,Canada,Ébola,Cardiovascular,Ventolin,NO
+Gerald,Herrema,Male,40,Indonesia,Lupus,Cardiovascular,Ventolin,SÍ
+Yetty,Winborn,Genderqueer,49,Sweden,Cólera,Cardiovascular,Eutirox,SÍ
+Anna-maria,Souter,Female,86,Sweden,Hipertensión,Hemofilia,Ibuprofeno,NO
+Cora,Turton,Female,38,Indonesia,Ébola,Respiratorio,Eutirox,SÍ
+Terrye,Baldassi,Female,50,China,Cólera,N/A,Orfidal,NO
+Hally,Welbeck,Female,9,Armenia,Malaria,Hemofilia,Orfidal,SÍ
+Aloysius,Ghione,Male,17,China,Lupus,Respiratorio,N/A,NO
+Herta,Sargeant,Female,48,China,VIH,Hemofilia,Paracetamol,NO
+Elbert,Maciaszek,Male,38,China,VIH,Cardiovascular,N/A,NO
+Ansel,Jakoubek,Male,74,United States,Hepatitis,N/A,Ventolin,SÍ
+Gregorius,Hoyland,Male,63,Ukraine,Polio,Respiratorio,Eutirox,NO
+Zora,Bony,Female,36,Philippines,Sífilis,Cardiovascular,Ibuprofeno,NO
+Jeramey,Rosi,Male,38,China,Lupus,N/A,Ibuprofeno,NO
+Annis,Howis,Female,57,Mexico,Diabetes,Respiratorio,Paracetamol,NO
+Stanfield,Geeson,Male,61,China,Hepatitis,Cardiovascular,Paracetamol,NO
+My,Woolatt,Male,48,Philippines,Malaria,Cardiovascular,Ventolin,NO
+Janelle,Gasnell,Female,19,Poland,Lupus,Cardiovascular,Sintrom,SÍ
+Roberto,Loines,Male,61,Tunisia,Sífilis,N/A,Orfidal,NO
+Jenica,Ruberry,Bigender,73,China,VIH,N/A,N/A,NO
+Candy,Bartrap,Genderfluid,46,France,Cólera,Hemofilia,N/A,SÍ
+Annemarie,Forsyde,Bigender,82,China,Cólera,Respiratorio,Nolotil,SÍ
+Nari,Kelledy,Female,32,Portugal,Hepatitis,Hemofilia,Sintrom,SÍ
+Penni,McCutcheon,Female,90,Serbia,Hipertensión,N/A,Eutirox,NO
+Jory,Boater,Male,50,China,Polio,Respiratorio,Paracetamol,NO
+Erek,Rubrow,Male,62,Guatemala,Malaria,N/A,Ibuprofeno,NO
+Jefferson,Earngy,Bigender,39,Portugal,VIH,Hemofilia,N/A,SÍ
+Ernestine,Pescud,Female,40,Panama,Ébola,N/A,Orfidal,SÍ
+Sofia,Lishman,Female,74,Poland,VIH,Respiratorio,N/A,SÍ
+Neala,Marchiso,Female,90,Philippines,Cólera,Hemofilia,Orfidal,NO
+Laura,Sandham,Female,74,Colombia,Hepatitis,Hemofilia,N/A,SÍ
+Kristo,Jahn,Male,29,China,Hepatitis,Cardiovascular,Nolotil,SÍ
+Xaviera,Keynd,Female,23,Slovenia,Polio,N/A,Paracetamol,SÍ
+Briana,Hillitt,Genderqueer,78,Benin,Malaria,N/A,Paracetamol,SÍ
+Maribel,Somers,Female,83,Portugal,Lupus,N/A,Ibuprofeno,NO
+Lindsey,Queen,Genderqueer,64,South Korea,Sífilis,Hemofilia,Nolotil,SÍ
+Arthur,Cridland,Bigender,21,China,Lupus,N/A,Ventolin,NO
+Desmund,Fransinelli,Male,71,Indonesia,Hepatitis,N/A,Ventolin,SÍ
+Bonnie,Misken,Female,16,Portugal,Cólera,Cardiovascular,Eutirox,SÍ
+Ciel,Eldridge,Female,66,Sri Lanka,Lupus,Hemofilia,Nolotil,NO
+Malissia,De Hooch,Female,42,China,Hipertensión,Hemofilia,N/A,SÍ
+Tyne,Chevalier,Female,66,Philippines,Ébola,N/A,Orfidal,SÍ
+Carlota,Breens,Female,6,Iraq,Sífilis,N/A,Sintrom,SÍ
+Kerstin,Falconbridge,Female,31,Indonesia,Hipertensión,Respiratorio,Nolotil,NO
+Filberto,Feighry,Male,38,Czech Republic,Hipertensión,N/A,Paracetamol,SÍ
+Sigvard,Hawler,Male,80,Yemen,Sífilis,N/A,Eutirox,NO
+Agosto,Damiata,Male,55,Brazil,VIH,Hemofilia,Ibuprofeno,SÍ
+Almire,Balmer,Female,68,France,VIH,N/A,Eutirox,SÍ
+Drud,McCuffie,Male,28,Jamaica,Hepatitis,Hemofilia,Nolotil,SÍ
+Ilse,Hannigan,Female,21,Finland,Lupus,Hemofilia,Eutirox,SÍ
+Diena,Gianolo,Female,55,China,Lupus,N/A,N/A,SÍ
+Bogart,Scanlan,Male,53,Rwanda,Hipertensión,Hemofilia,Eutirox,SÍ
+Louise,Sanchis,Genderqueer,71,Brazil,Hipertensión,Respiratorio,Paracetamol,NO
+Rowland,Tangye,Male,76,Indonesia,Polio,N/A,Nolotil,SÍ
+Pavla,Brosetti,Female,68,China,Ébola,Cardiovascular,Eutirox,NO
+Marlene,Blakeley,Female,43,Norway,Hepatitis,Respiratorio,Sintrom,SÍ
+Holly-anne,Absolon,Female,47,Kuwait,Ébola,N/A,Nolotil,SÍ
+Decca,Wolfenden,Male,76,China,Sífilis,N/A,Orfidal,NO
+Frankie,Cinnamond,Male,75,Netherlands,Hipertensión,N/A,Nolotil,NO
+Hermine,Kerwin,Female,48,Slovenia,Hepatitis,Cardiovascular,Ventolin,NO
+Eleen,Lampe,Genderqueer,67,Czech Republic,Ébola,Hemofilia,Paracetamol,NO
+Danell,Bister,Female,17,Poland,Hepatitis,N/A,Ibuprofeno,NO
+Gill,Choppen,Male,39,Bolivia,Polio,N/A,Sintrom,SÍ
+Benyamin,Miskin,Male,39,Poland,Malaria,Respiratorio,N/A,SÍ
+Hester,Ainsbury,Female,32,Kenya,Malaria,Hemofilia,Ibuprofeno,NO
+Von,Sargerson,Male,83,Portugal,Sífilis,Hemofilia,Sintrom,SÍ
+Brynna,Crake,Female,29,Mexico,Cólera,Hemofilia,Ventolin,SÍ
+Carolus,Mallows,Male,59,China,Sífilis,Respiratorio,Orfidal,NO
+Brose,Kryszkiecicz,Male,36,Indonesia,Hipertensión,N/A,Orfidal,NO
+Delila,Breagan,Female,14,Indonesia,Hipertensión,Respiratorio,Ibuprofeno,NO
+Tine,Sponton,Polygender,41,Portugal,Polio,Cardiovascular,Nolotil,NO
+Kermit,Spenley,Male,83,Papua New Guinea,Sífilis,Hemofilia,Eutirox,SÍ
+Janaye,Camber,Female,41,Indonesia,Diabetes,N/A,Sintrom,NO
+Neala,Moryson,Female,34,United States,Sífilis,Hemofilia,Orfidal,NO
+Gabbie,O'Duggan,Male,11,Thailand,Lupus,Cardiovascular,Paracetamol,NO
+Madelene,Dickens,Genderqueer,59,Panama,VIH,Respiratorio,N/A,NO
+Violet,Heggman,Female,54,China,Lupus,Respiratorio,Ventolin,SÍ
+Dee dee,Muschette,Female,14,China,Diabetes,Respiratorio,Sintrom,SÍ
+Alfy,Lockie,Male,36,Dominican Republic,Malaria,Cardiovascular,Sintrom,SÍ
+Arel,Runsey,Male,31,China,Hepatitis,N/A,N/A,SÍ
+Annie,Willden,Female,55,Indonesia,Hepatitis,N/A,Orfidal,SÍ
+Barn,Sarton,Male,86,Tanzania,Diabetes,N/A,Ventolin,NO
+Tammi,Maitland,Female,3,Colombia,Malaria,N/A,Eutirox,SÍ
+Corissa,Cowcha,Female,57,Indonesia,Diabetes,N/A,Ventolin,SÍ
+Hinda,Jeffries,Female,63,Bosnia and Herzegovina,Diabetes,Hemofilia,Paracetamol,NO
+Gifford,Defraine,Genderqueer,62,Czech Republic,Hipertensión,Respiratorio,Ibuprofeno,NO
+Shep,Pembery,Male,53,Philippines,VIH,N/A,Ventolin,SÍ
+Lory,Gilardoni,Female,71,South Korea,Lupus,N/A,Sintrom,SÍ
+Manuel,Casino,Male,62,Sweden,Hepatitis,Hemofilia,Eutirox,SÍ
+Savina,Toohey,Female,69,Peru,Lupus,N/A,Paracetamol,NO
+Di,Youde,Female,80,China,Malaria,Cardiovascular,Ibuprofeno,SÍ
+Devin,Schimmang,Male,77,Iran,Lupus,Cardiovascular,Ventolin,NO
+Davin,Peebles,Male,39,Brazil,Polio,N/A,Paracetamol,NO
+Daveen,Rief,Female,6,Thailand,Diabetes,Cardiovascular,Nolotil,SÍ
+Fabe,Babb,Male,10,Norway,Diabetes,N/A,Sintrom,SÍ
+Sharlene,Mattheissen,Female,75,United States,Diabetes,Hemofilia,N/A,SÍ
+Vittorio,Taborre,Male,4,China,Diabetes,Cardiovascular,Orfidal,NO
+Carr,Waadenburg,Male,61,Philippines,Hipertensión,Respiratorio,Paracetamol,NO
+Thom,Behning,Male,42,Russia,Hepatitis,Respiratorio,N/A,SÍ
+Cherin,Whytock,Female,50,Argentina,Hepatitis,Cardiovascular,Orfidal,SÍ
+Brendis,Coatts,Male,47,Indonesia,Hipertensión,N/A,Ventolin,NO
+Kaela,Matczak,Female,11,Peru,Hepatitis,Respiratorio,Paracetamol,SÍ
+Wally,Raffan,Female,9,Canada,Ébola,N/A,Eutirox,NO
+Modestia,Stolle,Female,85,France,Ébola,Hemofilia,Nolotil,NO
+Lidia,Huffy,Agender,73,Comoros,Malaria,N/A,Ventolin,NO
+Loren,Bartram,Male,3,Greece,VIH,Cardiovascular,Sintrom,NO
+Bernardina,Regnard,Female,78,Indonesia,Ébola,Cardiovascular,Sintrom,SÍ
+Vernor,Jedras,Male,69,Chile,VIH,Hemofilia,Nolotil,NO
+Wynn,Sheahan,Male,18,Lebanon,Polio,Hemofilia,Paracetamol,SÍ
+Murielle,Shalloe,Female,83,China,Polio,Hemofilia,Eutirox,SÍ
+Del,Human,Female,89,Chile,Malaria,N/A,Nolotil,SÍ
+Dasha,McTerlagh,Female,5,Germany,Lupus,N/A,Ventolin,SÍ
+Sonnnie,Westmancoat,Female,7,Indonesia,Cólera,Cardiovascular,Ventolin,NO
+Burlie,Triebner,Male,81,Russia,Hipertensión,Cardiovascular,Ibuprofeno,NO
+Latrina,Reinbeck,Female,73,Belarus,VIH,N/A,Paracetamol,NO
+Slade,Ianittello,Male,77,Dominican Republic,Malaria,Hemofilia,Ventolin,SÍ
+Kathryn,Braunter,Female,21,Russia,Hipertensión,Cardiovascular,Ventolin,NO
+Melosa,Brazur,Female,64,Indonesia,Polio,Cardiovascular,Paracetamol,NO
+Wendall,Raubenheimer,Male,51,Paraguay,Cólera,Cardiovascular,Ibuprofeno,NO
+Kippar,Semon,Male,44,Russia,VIH,N/A,Eutirox,SÍ
+Mamie,Scrannage,Female,22,Sweden,Hipertensión,Hemofilia,Nolotil,SÍ
+Web,Risdall,Male,58,Syria,Ébola,N/A,Ibuprofeno,NO
+Braden,Mildner,Male,78,France,Cólera,Respiratorio,Eutirox,SÍ
+Roxanna,Button,Female,29,France,Ébola,Respiratorio,Orfidal,NO
+Linnea,Mateu,Female,61,Vietnam,Cólera,Hemofilia,Ventolin,NO
